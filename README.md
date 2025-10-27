@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Hariharan K S
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Developer;Flutter+%26+MongoDB+Developer;AI+%26+OpenCV+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Developer;Flutter+%26+MongoDB+Developer;AI+%26+OpenCV+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
